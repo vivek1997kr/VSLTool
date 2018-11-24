@@ -11,6 +11,9 @@ VSL Best Tools Hacking For Kali Linux 2018
 
 ### ./VSLtool.sh
 
+Use for study purpose only      (try at your own risk)
+
+
 
 
 
